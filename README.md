@@ -1,19 +1,5 @@
 # EPU_ML_Angers_2026
-Plusieurs information ici :
-
-1/ Nous vous remercions de compléter l'enquête de satisfaction suivante au fil de l'EPU :
-
--  Bases de statistiques : 
-
-- Bases de machine learning et travail dirigé : 
-
-- Bases de deep learning et travail dirigé :
-
-- Applications/REX en physique médicale :
-
-- Bilan global :
-    
-2/ Vous trouverez les codes de chaque jour et d'autres documents utiles.
+Vous trouverez ici les codes de chaque jour et d'autres documents utiles.
 
 Nous utilisons le logiciel Fiji dans cette formation, vous pouvez le télécharger ici(https://fiji.sc)
 
